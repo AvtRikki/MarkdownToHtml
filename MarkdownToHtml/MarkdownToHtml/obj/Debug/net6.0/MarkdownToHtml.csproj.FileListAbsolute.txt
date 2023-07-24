@@ -1,0 +1,15 @@
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\bin\Debug\net6.0\MarkdownToHtml.exe
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\bin\Debug\net6.0\MarkdownToHtml.deps.json
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\bin\Debug\net6.0\MarkdownToHtml.runtimeconfig.json
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\bin\Debug\net6.0\MarkdownToHtml.dll
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\bin\Debug\net6.0\MarkdownToHtml.pdb
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.csproj.AssemblyReference.cache
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.AssemblyInfoInputs.cache
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.AssemblyInfo.cs
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.csproj.CoreCompileInputs.cache
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.dll
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\refint\MarkdownToHtml.dll
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.pdb
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\MarkdownToHtml.genruntimeconfig.cache
+C:\Users\bogza\OneDrive\Desktop\Solutions\MarkdownToHtml\MarkdownToHtml\obj\Debug\net6.0\ref\MarkdownToHtml.dll
